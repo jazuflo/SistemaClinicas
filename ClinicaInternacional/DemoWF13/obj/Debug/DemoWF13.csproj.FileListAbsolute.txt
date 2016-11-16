@@ -1,0 +1,18 @@
+C:\ISTPH_Dictado\2016-I\04.HerramientasDS\DemosWinForm\DemoWF13\DemoWF13\bin\Debug\DemoWF13.exe.config
+C:\ISTPH_Dictado\2016-I\04.HerramientasDS\DemosWinForm\DemoWF13\DemoWF13\obj\Debug\DemoWF13.csprojResolveAssemblyReference.cache
+C:\ISTPH_Dictado\2016-I\04.HerramientasDS\DemosWinForm\DemoWF13\DemoWF13\obj\Debug\DemoWF13.frmClinica.resources
+C:\ISTPH_Dictado\2016-I\04.HerramientasDS\DemosWinForm\DemoWF13\DemoWF13\obj\Debug\DemoWF13.Properties.Resources.resources
+C:\ISTPH_Dictado\2016-I\04.HerramientasDS\DemosWinForm\DemoWF13\DemoWF13\obj\Debug\DemoWF13.csproj.GenerateResource.Cache
+C:\ISTPH_Dictado\2016-I\04.HerramientasDS\DemosWinForm\DemoWF13\DemoWF13\bin\Debug\DemoWF13.exe
+C:\ISTPH_Dictado\2016-I\04.HerramientasDS\DemosWinForm\DemoWF13\DemoWF13\bin\Debug\DemoWF13.pdb
+C:\ISTPH_Dictado\2016-I\04.HerramientasDS\DemosWinForm\DemoWF13\DemoWF13\obj\Debug\DemoWF13.exe
+C:\ISTPH_Dictado\2016-I\04.HerramientasDS\DemosWinForm\DemoWF13\DemoWF13\obj\Debug\DemoWF13.pdb
+C:\Users\ZLAB\Downloads\TempUCCI\Evolucion de Software\DemoWF13\DemoWF13\bin\Debug\DemoWF13.exe.config
+C:\Users\ZLAB\Downloads\TempUCCI\Evolucion de Software\DemoWF13\DemoWF13\obj\Debug\DemoWF13.exe
+C:\Users\ZLAB\Downloads\TempUCCI\Evolucion de Software\DemoWF13\DemoWF13\obj\Debug\DemoWF13.pdb
+C:\Users\ZLAB\Downloads\TempUCCI\Evolucion de Software\DemoWF13\DemoWF13\bin\Debug\DemoWF13.exe
+C:\Users\ZLAB\Downloads\TempUCCI\Evolucion de Software\DemoWF13\DemoWF13\bin\Debug\DemoWF13.pdb
+C:\Users\ZLAB\Downloads\TempUCCI\Evolucion de Software\DemoWF13\DemoWF13\obj\Debug\DemoWF13.csprojResolveAssemblyReference.cache
+C:\Users\ZLAB\Downloads\TempUCCI\Evolucion de Software\DemoWF13\DemoWF13\obj\Debug\DemoWF13.frmClinica.resources
+C:\Users\ZLAB\Downloads\TempUCCI\Evolucion de Software\DemoWF13\DemoWF13\obj\Debug\DemoWF13.Properties.Resources.resources
+C:\Users\ZLAB\Downloads\TempUCCI\Evolucion de Software\DemoWF13\DemoWF13\obj\Debug\DemoWF13.csproj.GenerateResource.Cache
